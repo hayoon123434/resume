@@ -36,9 +36,9 @@ yanghayun3019@gmail.com
 
 ### 추천 시스템 개발
 
-- GitHub:[프로젝트 바로가기](https://github.com/hayoon123434/recommendsystem)
-- Python 기반 머신러닝 추천 시스템 개발
-- 사용자 행동 데이터 분석
+- GitHub:[프로젝트 바로가기](https://github.com/lsjsj92/recommender_system_with_Python)
+- Python 기반 머신러닝 추천 시스템 개발 기여
+- 사용자 행동 데이터 분석 기여
 
 ## 자격증
 
